@@ -7,5 +7,5 @@ This specific Program have the following known bugs:
 
 
 
-Version 1: 
+
 ![grab-landing-page](https://github.com/fcanales18/VideoPlayer-Clone/blob/main/video%20players%20gif%20sample.gif)
